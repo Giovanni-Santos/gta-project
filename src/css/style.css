@@ -174,12 +174,10 @@ body {
     gap: 20px;
     transition: all .3s ease-in;
     display: none;
-    opacity: 0;
 }
 
 .compre-ja .btn-plataforma .plataformas.ativo {
     display: flex;
-    opacity: 1;
 }
 
 .compre-ja .btn-plataforma .plataformas li {
